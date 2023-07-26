@@ -6,3 +6,4 @@ Bazı sorular olta sorusudur o yüzden dikkat.
 
 interface ile abstract metotların ortak özellikleri zorunlu olmaları. Farkı ne? Abstract kalıtıma bağlı.
 Abstract metotlarla polymorfism ortak özellikleri overrşde edilmeleri. Farkı ne? Polymorfism kullanmak zorunda değilsin. To string metodu gibi. Kullanmazsan base class uygulanır. Abstract ve interface lerde mecbur kullanmak zorundasın.
+x
